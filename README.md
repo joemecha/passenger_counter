@@ -10,6 +10,7 @@ This very simple and small app was built as an introduction to JavaScript
   - console.log()
   - functions
   - getElementById()
+  - addEventListener()
   - innerText vs. textContent
 
 ## Screenshot:
