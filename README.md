@@ -1,6 +1,7 @@
-# Passenger Counter
+# Passenger Counter 🚃
 
-## This very basic app was built as an introduction to JavaScript
+## About
+This very simple and small app was built as an introduction to JavaScript
 
 ## Concepts demonstrated:
   - Script tag
@@ -8,8 +9,8 @@
   - Numbers and strings
   - console.log()
   - functions
-  - (vocabulary) the DOM
   - getElementById()
   - innerText vs. textContent
 
 ## Screenshot:
+![Screen Shot 2021-06-29](https://user-images.githubusercontent.com/72046344/123841750-8f600380-d8d5-11eb-915f-970406817220.png)
